@@ -1,1 +1,4 @@
 This is a bunch file 1 which can be added to the GIT repo in a bunch instead as a separate file.
+
+This file bunch1_first_file is changed another time with this line 3 comments and commited to this GIT repo with changes in new file bunch2_file.txt of folder bunch_2_folder.
+This file is added to the GIT repo using cmd "git add ." instead of passing individual files in a "git add ......" command.

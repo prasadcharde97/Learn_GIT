@@ -1,0 +1,4 @@
+This is a bunch 2 file which can be added to the GIT repo along with the changes in bunch1_first_file.txt.
+
+Please refer third line in bunch1_first_file.txt file to see the changes.
+This file is added to the GIT repo using cmd "git add ." instead of passing individual files in a "git add ......" command.
